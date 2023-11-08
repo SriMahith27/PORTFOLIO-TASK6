@@ -9,7 +9,7 @@ import { FaDev, FaDatabase } from "react-icons/fa";
 const personalDetails = [
   {
     label: "Name",
-    value: "R. Naga Sravan Reddy",
+    value: "K.SRI MAHITH",
   },
   {
     label: "Age",
@@ -21,11 +21,11 @@ const personalDetails = [
   },
   {
     label: "Email",
-    value: "sravanr621@gmail.com",
+    value: "kmahith852@gmail.com",
   },
   {
     label: "Contact No",
-    value: "+91 6305622011",
+    value: "+91 9248771234",
   },
 ];
 
